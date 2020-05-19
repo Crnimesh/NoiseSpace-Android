@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1035526721800",
+    "firebase_url": "https://ecomputer-dbfad.firebaseio.com",
+    "project_id": "ecomputer-dbfad",
+    "storage_bucket": "ecomputer-dbfad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035526721800:android:98e594d5e93f846f569cbd",
+        "android_client_info": {
+          "package_name": "com.org.ecomputer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035526721800-ek41hskh9pou1h0q4s42j455g6f1t6iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.org.ecomputer",
+            "certificate_hash": "77f89be369eecf7169fb77da7124558bbc55e76e"
+          }
+        },
+        {
+          "client_id": "1035526721800-g7lirt0v6fb6ufoa19ej8ktgah2ficpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-qMbtl_1Kfwdh8yxjNhECYRQHRGepVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035526721800-g7lirt0v6fb6ufoa19ej8ktgah2ficpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
